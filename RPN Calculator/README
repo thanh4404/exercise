@@ -1,0 +1,5 @@
+To run the code on Mac
+
+1. brew update
+2. brew install node
+3. node rpn.js
